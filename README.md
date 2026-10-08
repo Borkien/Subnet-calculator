@@ -5,7 +5,7 @@ Note: This project is currently a Work In Progress (WIP) and is not yet feature-
 
 
 ### Current Features
-**Accepts IP address input and splits it into standard integer octets.
+* Accepts IP address input and splits it into standard integer octets.
 
 * Accepts CIDR subnet input (supports input with or without a leading /, e.g., /24 or 24).
 
